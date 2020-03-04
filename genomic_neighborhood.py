@@ -257,6 +257,7 @@ def main(args=None):
     script_filename = sys.argv[0].split("/")[-1]
     description = """
     Running: {} v{} via Python v{} | {}\n
+    Versatile command-line tool designed to create publication quality genomic neighborhood plots built on top of DnaFeaturesViewer
 
     [Example: --annotation_table ./Data/annotation_table.xlsx]
     # Note: Columns are not case sensitive
