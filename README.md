@@ -1,15 +1,20 @@
 ## genome_neighborhood.py
+![image](https://i.imgur.com/T6I0JTa.png)
+
 ### Description:
 Versatile command-line tool designed to create publication quality genomic neighborhood plots built on top of [DnaFeaturesViewer](https://edinburgh-genome-foundry.github.io/DnaFeaturesViewer/). This implementation streamlines usage and can handle excel, various delimiters, gff3, gtf, and various compressed files.  
-________
 
 ### Requirements:
 ```
+# Python packages:
 pandas
 numpy
 matplotlib
 dna_features_viewer
 goomba
+
+# Optional:
+conda
 ```
 
 ### Installation:
