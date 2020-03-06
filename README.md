@@ -1,4 +1,4 @@
-## genome_neighborhood.py
+## genomic_neighborhood.py
 ![image](https://i.imgur.com/T6I0JTa.png)
 
 ### Description:
@@ -25,7 +25,7 @@ cd genomic_neighborhood
 ```
 
 #### Conda
-`conda env create --name genome_neighborhood_env --file environment.yaml`
+`conda env create --name genomic_neighborhood_env --file environment.yaml`
 
 #### PyPi (PIP)
 `pip install numpy pandas matplotlib goomba dna_feature_viewer`
