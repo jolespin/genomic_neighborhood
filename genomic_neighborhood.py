@@ -6,7 +6,7 @@ from collections import defaultdict, OrderedDict
 import numpy as np
 import pandas as pd
 from matplotlib.colors import to_rgb
-from goomba import infer_compression, format_path, format_duration, format_header, boolean, assert_acceptable_arguments, pv
+from soothsayer_utils import infer_compression, format_path, format_duration, format_header, boolean, assert_acceptable_arguments, pv
 from dna_features_viewer import GraphicFeature, GraphicRecord
 
 

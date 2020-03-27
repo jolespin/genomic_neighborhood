@@ -11,7 +11,7 @@ pandas
 numpy
 matplotlib
 dna_features_viewer
-goomba
+soothsayer_utils
 
 # Optional:
 conda
@@ -28,7 +28,7 @@ cd genomic_neighborhood
 `conda env create --name genomic_neighborhood_env --file environment.yaml`
 
 #### PyPi (PIP)
-`pip install numpy pandas matplotlib goomba dna_feature_viewer`
+`pip install numpy pandas matplotlib soothsayer_utils genopype dna_feature_viewer`
 ________
 
 ### Arguments:
